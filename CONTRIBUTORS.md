@@ -1944,6 +1944,11 @@ Noida
 - Place: New Delhi,India
 - Bio: Student,Open source enthusiast,GSOC '17 participant, InOut 4.0 blockchain track winner
 - GitHub: [Rishabh42](https://github.com/Rishabh42)
+ 
+#### Name: [Rishi Kumar] (https://github.com/Rishikr15)
+- Place : Kolkata, West Bengal, INDIA.
+- Bio: Likes open source and Blockchain projects, Student
+- Github : https://github.com/Rishikr15
 
 #### Name: [Rizki Ramadhana](https://github.com/rizkiprof)
 - Place: Yogyakarta, Indonesia
